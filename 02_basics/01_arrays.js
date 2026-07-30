@@ -7,7 +7,7 @@ const myHero = ["virat" ,"shaktiman"];
 //Array check karne ka correct way => (Array.isArray(myHero))
 
 const myArr2 = new Array(1,2,3,4,6);
-// console.log(typeof myArr );// object =>  JavaScript me Array bhi object hota hai.isliye typeog se object or array mai diffrence ni pta chalta hai
+// console.log(typeof myArr );// object =>  JavaScript me Array bhi object hota hai.isliye typeof se object or array mai diffrence ni pta chalta hai
 // console.log(typeof myHero);// object
 
 
