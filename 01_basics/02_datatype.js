@@ -16,5 +16,5 @@ let temp=null
 
 
 console.log([typeof name,typeof age,typeof isloggedIn,typeof state]);
-console.log(typeof undefined)
+console.log(typeof undefined)  // "undefined"
 console.log(typeof null)// null datatype is object it act like a object
